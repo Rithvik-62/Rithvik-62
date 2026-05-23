@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 Web Developer  
+📊 Data Analytics Enthusiast  
+
+## 🛠 Skills
+Python • HTML • CSS • JavaScript
+
+## 📫 Connect
+LinkedIn: www.linkedin.com/in/rithvik-salian-b5b486329
